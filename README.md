@@ -49,7 +49,7 @@ A random forest classifier was used to build a model that predicts the class of 
 
 ### Findings
 
-The model achieved an accuracy of 0.87 on the test set.
+The model achieved an accuracy of 0.94 on the test set.
 
 ## Conclusion
 
